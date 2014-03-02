@@ -1,0 +1,16 @@
+<root>
+     	<item name="Attractions" path="asset:///images/attraction.png"/>	
+    	<item  name="Beaches" path="asset:///images/beach.png"/>     	
+     	<item  name="Cinemas" path="asset:///images/cinema.png"/>
+     	<item  name="Convention/Trade" path="asset:///images/trade.png"/>
+     	<item  name="Parks" path="asset:///images/park.png"/>
+     	<item  name="Galleries" path="asset:///images/gallery.png"/>
+     	<item  name="Gardens" path="asset:///images/garden.png"/>
+     	<item  name="Museums" path="asset:///images/museum.png"/>
+     	<item  name="Performing Arts" path="asset:///images/performing_art.png"/>
+     	<item  name="Police HQ" path="asset:///images/toronto-police.png"/>
+     	<item  name="Shopping" path="asset:///images/shopping.png"/>
+     	<item  name="Sports/Entertainment" path="asset:///images/entertainment.png"/>
+     	<item  name="Transportation" path="asset:///images/transportation.png"/>
+     	<item  name="Visitor Info" path="asset:///images/visitor_information.png"/>
+</root>
